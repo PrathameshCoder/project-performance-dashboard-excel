@@ -26,5 +26,9 @@ Microsoft Excel:
 - Forecast Overrun: €1,800
 - Overall Project Progress: 46%
 
+## Dashboard Preview
+
+![Project Performance Dashboard](dashboard.png)
+
 ## Note
 This project uses fictional data and was created as a portfolio exercise.

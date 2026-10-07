@@ -28,7 +28,7 @@ Microsoft Excel:
 
 ## Dashboard Preview
 
-![Project Performance Dashboard](dashboard.png)
+![Project Performance Dashboard](dashboard-screenshot.png)
 
 ## Note
 This project uses fictional data and was created as a portfolio exercise.
